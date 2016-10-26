@@ -238,7 +238,7 @@ a:hover {
 }
 #about img {
   position: absolute;
-  width: 300px;
+  /*width: 300px;*/
   /*top: -12px;*/
   left: 435px;
 }

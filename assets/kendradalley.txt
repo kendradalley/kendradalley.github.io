@@ -2,19 +2,27 @@
 
  801.448.5130 // <kendracdalley@gmail.com> // Seattle, WA // [GitHub](https://github.com/kendradalley)
 
+### Summary
+A natural fixer and ‘doer’ - I’m drawn to the front-end development in innovative and creative industries. Disciplined in full-stack development with an extensive background in digital marketing I re-invigorate, elevate, and produce results that are measurable and meaningful.
+
+### Skills
+	+ WEB DEVELOPMENT: JavaScript, jQuery, Object-Oriented Programming (OOP), HTML, Cascading Style Sheets (CSS), SQL, Postgres, Drupal, NPM, Git, Github, Ruby, Node.js, Bootstrap, AngularJS, Meteor, React, Ruby on Rails, Express, Mongoose, MongoDB, SASS, Sequelize, ORM, oAuth, Socket.io, Version Control, Command Line, AWS, ES6/ES2015, Heroku, REST APIs
+	+ MARKETING: Digital Marketing, PPC, SEO, Analytics, Google Analytics, Tableau, Project Management, Social Media Marketing, Conversion Optimization, Lead Generation, A/B & Multivariate Testing, Optimizely, Onboarding Design
+
 ### Experience
 
 **Web Development Immersive**, _2014 – Present_  
 General Assembly; Seattle, WA
 
-	+ 12 week fully immersive program focusing on web development languages, frameworks and techniques
-	
-	
+	+ Full-stack focus in HTML/CSS/Javascript, Node/Express, Ruby on Rails, and Angular.JS
+	+ Worked in an agile environment, working through 5 design/development sprints
+	+ Learned 30+ languages/platforms/frameworks/preprocessors/databases/tools and applied learnings to daily deliverables
+	+ Worked on projects in individual and pair programming settings
 
 **Digital Marketing Manager**, _2014 – Present_  
 Smartsheet; Bellevue, WA
 	
-	+ Hired and managed 8-person team to grow strategic content program, increasing win dollars 96% year over year and becoming the most lucrative marketing program within one year of inception
+	+ Hired and managed 8-person team to grow strategic SEO content program, increasing win dollars 96% year over year and becoming the most lucrative marketing program within one year of inception
 	+ Worked with internal and external teams to develop, prioritize and launch new content - assigning work to writers, design, dev, qa - ensuring quality content is published to the website on daily schedule
 	+ Managed a $7.3 million annual paid marketing program including pay-per-click/social advertising, media buys, etc., increasing YOY ROI metric by 38%.
 	+ Conducted in-app and landing page testing to improve the initial user experience, increasing return throughout the funnel
@@ -40,6 +48,22 @@ Polevault Media; Salt Lake City, UT
   	+ Set up a admin interface and product listing in Magento for a eyewear retailer client 
   	+ Set up Google Analytics Dashboards to track website traffic and behavior to optimize web experience
   	+ Ran a campaign to attract students to the intern program by holding on-campus presentations, creating info brochures, and hosting open house functions
+
+### Projects
+
+#### SIMON SAYS	Aug 2016 to Aug 2016
+	+ A web version of the popular children's electronic game, Simons Says,  a memory game where you follow a sequence of sound and color to win.
+
+#### TWITTERGORIES	Sep 2016 to Sep 2016
+	+ A Node/Express app to help you track of twitter content by topic. Can save each topic in it's on filter to be used to see the most recent tweets.
+
+
+#### CRWL	Sep 2016 to Sep 2016
+ 	+ A Ruby on Rails app to look at pub crawls happening within your city that you can join in on either from from the beginning, or pop in and out at your leisure.
+
+
+### SAILS BOATING LOG	Oct 2016 to Oct 2016
+	+ An AngularJS app to help you keep track of all your boating activities in one place. 
 
 ### Education  
 
